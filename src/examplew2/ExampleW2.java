@@ -12,6 +12,7 @@ public class ExampleW2 {
      */
     public static void main(String[] args) {
         System.out.println("Push to repository");
+        System.out.println("Slight change in commit");
     }
 
 }
